@@ -1,0 +1,39 @@
+Microsoft Windows [Version 10.0.26200.9457]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Mohammed Abubakar>cd "%USERPROFILE%\Desktop"
+
+C:\Users\Mohammed Abubakar\Desktop>py financial_chatbot.py
+============================================================
+Financial Chatbot — Microsoft, Tesla, Apple (2023-2025)
+============================================================
+
+Predefined queries you can ask:
+  1. What is Microsoft's total revenue?
+  2. How has net income changed over the last year?
+  3. What is Tesla's net income?
+  4. What is Apple's total revenue?
+  5. Which company had the highest revenue growth?
+
+Type 'exit' to quit.
+
+You: What is Microsoft's total revenue?
+Bot: Microsoft's total revenue in 2025 was $281,724 million, up from $245,122M in 2024 and $211,915M in 2023.
+
+You: How has net income changed over the last year?
+Bot: Microsoft's net income increased by 15.54% from $88,136M (2024) to $101,832M (2025). Apple's net income increased by 19.50%, while Tesla's net income decreased by 46.11%.
+
+You: What is Tesla's net income?
+Bot: Tesla's net income in 2025 was $3,855 million, down sharply from $7,153M in 2024 and $14,974M in 2023.
+
+You: What is Apple's total revenue?
+Bot: Apple's total revenue in 2025 was $416,161 million, up from $391,035M in 2024 and $383,285M in 2023.
+
+You: Which company had the highest revenue growth?
+Bot: Microsoft had the highest average revenue growth at 15.30% per year, followed by Apple at 4.22% and Tesla at -0.99%.
+
+You: What is Google's revenue?
+Bot: Sorry, I can only provide information on predefined queries. Try asking about revenue, net income, or growth for Microsoft, Tesla, or Apple.
+
+You: exit
+Bot: Goodbye!
